@@ -1,17 +1,17 @@
 ﻿using System;
 //Write methods to calculate the minimum, maximum, average, sum and product of a given set of numbers. 
-//Overload the methods to work with numbers of type int and double.
+//Overload the methods to work with numbers of type decimal and double.
 class NumberCalculations
 {
     static void Main()
     {
         double[] doubles = { 1.2, 3.2, 4.55, 10.22, 0.03 };
-        int[] integers = { 1, 3, 4, 10, 1 };
-        Console.WriteLine("Min -> double {0}  integer {1}", Min(doubles), Min(integers));
-        Console.WriteLine("Max -> double {0}  integer {1}", Max(doubles), Max(integers));
-        Console.WriteLine("Sum of elements -> double {0}  integer {1}", Sum(doubles), Sum(integers));
-        Console.WriteLine("Products of elements -> double {0}  integer {1}", Product(doubles), Product(integers));
-        Console.WriteLine("Avarage -> double {0}  integer {1}", Average(doubles), Average(integers));
+        decimal[] decimals = { 1, 3, 4, 10, 1 };
+        Console.WriteLine("Min -> double {0}  decimal {1}", Min(doubles), Min(decimals));
+        Console.WriteLine("Max -> double {0}  decimal {1}", Max(doubles), Max(decimals));
+        Console.WriteLine("Sum of elements -> double {0}  decimal {1}", Sum(doubles), Sum(decimals));
+        Console.WriteLine("Products of elements -> double {0}  decimal {1}", Product(doubles), Product(decimals));
+        Console.WriteLine("Avarage -> double {0}  decimal {1}", Average(doubles), Average(decimals));
     }
 
     public static double Min(double[] nums)
@@ -28,9 +28,9 @@ class NumberCalculations
         return min;
     }
 
-    public static int Min(int[] nums)
+    public static decimal Min(decimal[] nums)
     {
-        int min = int.MaxValue;
+        decimal min = decimal.MaxValue;
         for (int i = 0; i < nums.Length; i++)
         {
             if (min >= nums[i])
@@ -56,9 +56,9 @@ class NumberCalculations
         return max;
     }
 
-    public static int Max(int[] nums)
+    public static decimal Max(decimal[] nums)
     {
-        int max = int.MinValue;
+        decimal max = decimal.MinValue;
         for (int i = 0; i < nums.Length; i++)
         {
             if (max <= nums[i])
@@ -75,7 +75,7 @@ class NumberCalculations
         return Sum(nums) / nums.Length;
     }
 
-    public static int Average(int[] nums)
+    public static decimal Average(decimal[] nums)
     {
         return Sum(nums) / nums.Length;
     }
@@ -91,9 +91,9 @@ class NumberCalculations
         return sum;
     }
 
-    public static int Sum(int[] nums)
+    public static decimal Sum(decimal[] nums)
     {
-        int sum = 0;
+        decimal sum = 0;
         for (int i = 0; i < nums.Length; i++)
         {
             sum += nums[i];
@@ -113,9 +113,9 @@ class NumberCalculations
         return product;
     }
 
-    public static int Product(int[] nums)
+    public static decimal Product(decimal[] nums)
     {
-        int product = 1;
+        decimal product = 1;
         for (int i = 0; i < nums.Length; i++)
         {
             product *= nums[i];
