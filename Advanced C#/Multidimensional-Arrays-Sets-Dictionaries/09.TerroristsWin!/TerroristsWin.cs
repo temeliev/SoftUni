@@ -25,7 +25,10 @@ class TerroristsWin
             {
                 isCalculating = !isCalculating;
                 bombIndex = i;
-                continue;
+                if (i < input.Length - 1)
+                {
+                    continue;
+                }
             }
 
             if (isCalculating)
@@ -38,12 +41,29 @@ class TerroristsWin
                 if (sum > 0)
                 {
                     int digit = sum % 10;
-                    int startIndex = bombIndex - digit - bombLength - 1;
-                    input = input.Remove(startIndex, bombLength + (digit * 2) + 2);
-                    input = input.Insert(startIndex, new String('.', bombLength + (digit * 2) + 2));
+                    int startIndex = Math.Max(0, bombIndex - digit - bombLength - 1);
+                    int bombRadius = bombLength + 2;
+                    if (startIndex > 0 && (startIndex + bombRadius + (digit * 2)) < input.Length)
+                    {
+                        digit *= 2;
+                    }
+                    bombRadius += digit;
+                    input = input.Remove(startIndex, bombRadius);
+                    input = input.Insert(startIndex, new String('.', bombRadius));
                     sum = 0;
                     bombIndex = 0;
                     bombLength = 0;
+                }
+                else
+                {
+                    if (i > 0 && input[i - 1] == '|')
+                    {
+                        int startIndex = Math.Max(0, bombIndex - 1);
+                        input = input.Remove(startIndex, 2);
+                        input = input.Insert(startIndex, new String('.', 2));
+                        bombIndex = 0;
+                        bombLength = 0;
+                    }
                 }
             }
         }
