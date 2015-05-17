@@ -1,0 +1,5 @@
+D:\Lessons\SoftUni\Fundamental Level\Advanced C#\Sokoban\Sokoban.Logic\bin\Debug\Sokoban.Logic.dll
+D:\Lessons\SoftUni\Fundamental Level\Advanced C#\Sokoban\Sokoban.Logic\bin\Debug\Sokoban.Logic.pdb
+D:\Lessons\SoftUni\Fundamental Level\Advanced C#\Sokoban\Sokoban.Logic\obj\Debug\Sokoban.Logic.csprojResolveAssemblyReference.cache
+D:\Lessons\SoftUni\Fundamental Level\Advanced C#\Sokoban\Sokoban.Logic\obj\Debug\Sokoban.Logic.dll
+D:\Lessons\SoftUni\Fundamental Level\Advanced C#\Sokoban\Sokoban.Logic\obj\Debug\Sokoban.Logic.pdb
