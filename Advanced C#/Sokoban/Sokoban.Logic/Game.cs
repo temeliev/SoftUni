@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Sokoban.Logic
 {
-    public class Class1
+    public class Game
     {
+        public int Width { get; set; }
+        public int Height { get; set; }
     }
 }
