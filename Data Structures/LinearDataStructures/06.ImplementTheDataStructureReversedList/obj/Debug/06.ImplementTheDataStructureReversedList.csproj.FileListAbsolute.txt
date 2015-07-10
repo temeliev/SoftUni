@@ -1,0 +1,5 @@
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\06.ImplementTheDataStructureReversedList\bin\Debug\06.ImplementTheDataStructureReversedList.exe.config
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\06.ImplementTheDataStructureReversedList\bin\Debug\06.ImplementTheDataStructureReversedList.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\06.ImplementTheDataStructureReversedList\bin\Debug\06.ImplementTheDataStructureReversedList.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\06.ImplementTheDataStructureReversedList\obj\Debug\06.ImplementTheDataStructureReversedList.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\06.ImplementTheDataStructureReversedList\obj\Debug\06.ImplementTheDataStructureReversedList.pdb

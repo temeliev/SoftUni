@@ -1,0 +1,6 @@
+D:\Lessons\SoftUni\Open courses\Data Structures\AlgorithmsAndComplexity\Task\bin\Debug\Task.exe.config
+D:\Lessons\SoftUni\Open courses\Data Structures\AlgorithmsAndComplexity\Task\bin\Debug\Task.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\AlgorithmsAndComplexity\Task\bin\Debug\Task.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\AlgorithmsAndComplexity\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+D:\Lessons\SoftUni\Open courses\Data Structures\AlgorithmsAndComplexity\Task\obj\Debug\Task.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\AlgorithmsAndComplexity\Task\obj\Debug\Task.pdb

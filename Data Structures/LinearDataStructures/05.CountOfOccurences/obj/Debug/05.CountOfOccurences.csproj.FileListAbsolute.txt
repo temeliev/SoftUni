@@ -1,0 +1,5 @@
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\05.CountOfOccurences\bin\Debug\05.CountOfOccurences.exe.config
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\05.CountOfOccurences\bin\Debug\05.CountOfOccurences.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\05.CountOfOccurences\bin\Debug\05.CountOfOccurences.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\05.CountOfOccurences\obj\Debug\05.CountOfOccurences.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\05.CountOfOccurences\obj\Debug\05.CountOfOccurences.pdb

@@ -1,0 +1,13 @@
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList.Tests\bin\Debug\mscorlib.dll
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList.Tests\bin\Debug\normidna.nlp
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList.Tests\bin\Debug\normnfc.nlp
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList.Tests\bin\Debug\normnfd.nlp
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList.Tests\bin\Debug\normnfkc.nlp
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList.Tests\bin\Debug\normnfkd.nlp
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb

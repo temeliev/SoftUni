@@ -1,0 +1,6 @@
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\07.ImplementLinkedList\bin\Debug\07.ImplementLinkedList.exe.config
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\07.ImplementLinkedList\bin\Debug\07.ImplementLinkedList.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\07.ImplementLinkedList\bin\Debug\07.ImplementLinkedList.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\07.ImplementLinkedList\obj\Debug\07.ImplementLinkedList.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\07.ImplementLinkedList\obj\Debug\07.ImplementLinkedList.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\07.ImplementLinkedList\obj\Debug\07.ImplementLinkedList.csprojResolveAssemblyReference.cache

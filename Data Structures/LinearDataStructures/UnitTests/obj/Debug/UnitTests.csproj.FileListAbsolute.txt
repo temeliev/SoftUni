@@ -1,0 +1,11 @@
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\UnitTests\bin\Debug\UnitTests.dll
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\UnitTests\bin\Debug\UnitTests.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\UnitTests\bin\Debug\LongestSubsequence.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\UnitTests\bin\Debug\LongestSubsequence.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\UnitTests\obj\Debug\UnitTests.dll
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\UnitTests\obj\Debug\UnitTests.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\UnitTests\bin\Debug\06.ImplementTheDataStructureReversedList.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\UnitTests\bin\Debug\06.ImplementTheDataStructureReversedList.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\UnitTests\bin\Debug\07.ImplementLinkedList.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\UnitTests\bin\Debug\07.ImplementLinkedList.pdb

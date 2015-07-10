@@ -1,0 +1,11 @@
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList\bin\Debug\mscorlib.dll
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList\bin\Debug\normidna.nlp
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList\bin\Debug\normnfc.nlp
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList\bin\Debug\normnfd.nlp
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList\bin\Debug\normnfkc.nlp
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList\bin\Debug\normnfkd.nlp
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\ImplementDoublyLinkedListInCSharp\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

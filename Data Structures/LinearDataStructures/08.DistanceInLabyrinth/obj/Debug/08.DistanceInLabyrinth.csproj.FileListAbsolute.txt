@@ -1,0 +1,5 @@
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\08.DistanceInLabyrinth\bin\Debug\08.DistanceInLabyrinth.exe.config
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\08.DistanceInLabyrinth\bin\Debug\08.DistanceInLabyrinth.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\08.DistanceInLabyrinth\bin\Debug\08.DistanceInLabyrinth.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\08.DistanceInLabyrinth\obj\Debug\08.DistanceInLabyrinth.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructures\08.DistanceInLabyrinth\obj\Debug\08.DistanceInLabyrinth.pdb
