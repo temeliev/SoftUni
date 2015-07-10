@@ -1,0 +1,11 @@
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\NightlifeEntertainment-Skeleton\bin\Debug\NightlifeEntertainment.exe
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\NightlifeEntertainment-Skeleton\bin\Debug\NightlifeEntertainment.pdb
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\NightlifeEntertainment-Skeleton\bin\Debug\mscorlib.dll
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\NightlifeEntertainment-Skeleton\bin\Debug\normidna.nlp
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\NightlifeEntertainment-Skeleton\bin\Debug\normnfc.nlp
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\NightlifeEntertainment-Skeleton\bin\Debug\normnfd.nlp
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\NightlifeEntertainment-Skeleton\bin\Debug\normnfkc.nlp
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\NightlifeEntertainment-Skeleton\bin\Debug\normnfkd.nlp
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\NightlifeEntertainment-Skeleton\obj\Debug\NightlifeEntertainment.csprojResolveAssemblyReference.cache
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\NightlifeEntertainment-Skeleton\obj\Debug\NightlifeEntertainment.exe
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\NightlifeEntertainment-Skeleton\obj\Debug\NightlifeEntertainment.pdb

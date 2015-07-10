@@ -1,0 +1,6 @@
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.exe.config
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.exe
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.pdb
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.exe
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.pdb
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShopManager.csprojResolveAssemblyReference.cache

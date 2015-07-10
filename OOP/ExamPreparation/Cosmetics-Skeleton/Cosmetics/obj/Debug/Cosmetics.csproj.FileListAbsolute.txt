@@ -1,0 +1,6 @@
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe.config
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.pdb
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.exe
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.pdb
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache

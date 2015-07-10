@@ -1,0 +1,31 @@
+• Which .NET data types are value types? Which types are reference types?
+
+- Числовите типове са char, byte, sbyte, short,u short, int, uint, long, ulong, decimal, float, double, bool, структурите(struct) и енумераторите(enum)
+
+- Референтните типове са string, object, класовете(class), интерфейсите(interface), делегатите(delegate), масивите(array), указателите(ref, out), динамичните обекти(dynamic).
+
+• How do value and reference types differ when assigned to a variable?
+
+- Когато се присвоява стойност на променлива от числов тип самата стойност се записва в стека(stack) на програмата, докато при присвояване на променлива от референтен тип в стека се записва само адреса на стойността, която се намира в хийпа(heap).
+
+• How do value and reference types behave when passed as argument to a method?
+
+- Когато променлива от числов тип се подаде като параметър на даден метод тя не си сменя стойността(ако се промени вътре в метода), докато при референтните типове стойността може да бъде променяна.
+
+• Where in memory are value types allocated? Where are reference types allocated?
+
+- Стойностите на числовите типове се пазят в стека(stack), a тези на референтните типове се пазят в хийпа(heap) като същевременно техните адреси се пазят в стека.
+
+• What is data mutation? Can value types be mutated? Can reference types be mutated?
+
+- Мутирането е промяна на референтна стойност в паметта(heap).Само референтните типове могат да бъдат мутирани.
+
+• What is the difference between mutating and setting (assigning) a variable? Give examples.
+
+- Сетването е създаване на нов адрес в паметта докато мутирането е промяна на текуща стойност в паметта.Пример:
+List<int> list = new List<int>() - сетване (setting)
+list.Add(5); - мутиране(mutating)
+
+• What are the out and ref keywords used for? In what do they differ?
+
+Чрез ключовата дума ref ние можем да мутираме променливи от стойностен тип(boxing) и да създаваме двойни указатели ако подадената стойност е референтна. Разликата с ref e чe ключовата дума out ни задължава да променим подадената стойност.

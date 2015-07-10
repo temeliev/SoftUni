@@ -1,8 +1,0 @@
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\03.Paths\bin\Debug\03.Paths.exe.config
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\03.Paths\bin\Debug\03.Paths.exe
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\03.Paths\bin\Debug\03.Paths.pdb
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\03.Paths\bin\Debug\01.Point3D.exe
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\03.Paths\bin\Debug\01.Point3D.pdb
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\03.Paths\obj\Debug\03.Paths.csprojResolveAssemblyReference.cache
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\03.Paths\obj\Debug\03.Paths.exe
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\03.Paths\obj\Debug\03.Paths.pdb

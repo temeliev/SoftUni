@@ -1,0 +1,15 @@
+SoftUni OOP Game Contest
+ 
+SoftUni is organizing a contest for the best role playing game from the OOP teamwork projects. The winning teams will receive a grand prize! 
+The game should be:
+Properly structured and follow all good OOP practices
+Awesome
+..Very Awesome
+
+Team	Game	Points
+-	-	-
+-	-	-
+-	-	-
+
+The top 3 teams will receive a SPECTACULAR prize:
+A HANDSHAKE FROM NAKOV

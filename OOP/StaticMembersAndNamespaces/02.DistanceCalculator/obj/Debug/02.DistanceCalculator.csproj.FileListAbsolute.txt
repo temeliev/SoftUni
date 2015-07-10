@@ -1,8 +1,0 @@
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe.config
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.pdb
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\01.Point3D.exe
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\01.Point3D.pdb
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.csprojResolveAssemblyReference.cache
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.exe
-D:\Lessons\SoftUni\Fundamental Level\OOP\StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.pdb

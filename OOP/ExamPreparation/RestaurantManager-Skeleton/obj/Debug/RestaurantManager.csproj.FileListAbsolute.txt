@@ -1,0 +1,10 @@
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.exe
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.pdb
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\RestaurantManager-Skeleton\bin\Debug\mscorlib.dll
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\RestaurantManager-Skeleton\bin\Debug\normidna.nlp
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\RestaurantManager-Skeleton\bin\Debug\normnfc.nlp
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\RestaurantManager-Skeleton\bin\Debug\normnfd.nlp
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\RestaurantManager-Skeleton\bin\Debug\normnfkc.nlp
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\RestaurantManager-Skeleton\bin\Debug\normnfkd.nlp
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.exe
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.pdb

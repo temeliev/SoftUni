@@ -1,0 +1,6 @@
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\Army of Creatures - Skeleton\ArmyOfCreatures\bin\Debug\ArmyOfCreatures.exe.config
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\Army of Creatures - Skeleton\ArmyOfCreatures\bin\Debug\ArmyOfCreatures.exe
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\Army of Creatures - Skeleton\ArmyOfCreatures\bin\Debug\ArmyOfCreatures.pdb
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\Army of Creatures - Skeleton\ArmyOfCreatures\obj\Debug\ArmyOfCreatures.exe
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\Army of Creatures - Skeleton\ArmyOfCreatures\obj\Debug\ArmyOfCreatures.pdb
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\Army of Creatures - Skeleton\ArmyOfCreatures\obj\Debug\ArmyOfCreatures.csprojResolveAssemblyReference.cache

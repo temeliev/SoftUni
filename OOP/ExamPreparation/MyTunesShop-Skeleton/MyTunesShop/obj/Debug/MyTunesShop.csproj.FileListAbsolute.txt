@@ -1,0 +1,6 @@
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\MyTunesShop-Skeleton\MyTunesShop\bin\Debug\MyTunesShop.exe.config
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\MyTunesShop-Skeleton\MyTunesShop\bin\Debug\MyTunesShop.exe
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\MyTunesShop-Skeleton\MyTunesShop\bin\Debug\MyTunesShop.pdb
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\MyTunesShop-Skeleton\MyTunesShop\obj\Debug\MyTunesShop.exe
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\MyTunesShop-Skeleton\MyTunesShop\obj\Debug\MyTunesShop.pdb
+D:\Lessons\SoftUni\Fundamental Level\OOP\ExamPreparation\MyTunesShop-Skeleton\MyTunesShop\obj\Debug\MyTunesShop.csprojResolveAssemblyReference.cache
