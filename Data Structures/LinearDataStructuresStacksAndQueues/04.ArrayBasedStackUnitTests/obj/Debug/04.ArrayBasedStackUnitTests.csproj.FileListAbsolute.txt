@@ -1,0 +1,11 @@
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\04.ArrayBasedStackUnitTests\bin\Debug\04.ArrayBasedStackUnitTests.dll
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\04.ArrayBasedStackUnitTests\bin\Debug\04.ArrayBasedStackUnitTests.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\04.ArrayBasedStackUnitTests\bin\Debug\03.ImplementArray_BasedStack.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\04.ArrayBasedStackUnitTests\bin\Debug\03.ImplementArray_BasedStack.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\04.ArrayBasedStackUnitTests\obj\Debug\04.ArrayBasedStackUnitTests.csprojResolveAssemblyReference.cache
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\04.ArrayBasedStackUnitTests\obj\Debug\04.ArrayBasedStackUnitTests.dll
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\04.ArrayBasedStackUnitTests\obj\Debug\04.ArrayBasedStackUnitTests.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\04.ArrayBasedStackUnitTests\bin\Debug\05.LinkedStack.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\04.ArrayBasedStackUnitTests\bin\Debug\05.LinkedStack.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\04.ArrayBasedStackUnitTests\bin\Debug\07.LinkedQueue.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\04.ArrayBasedStackUnitTests\bin\Debug\07.LinkedQueue.pdb

@@ -1,0 +1,6 @@
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\05.LinkedStack\bin\Debug\05.LinkedStack.exe.config
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\05.LinkedStack\bin\Debug\05.LinkedStack.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\05.LinkedStack\bin\Debug\05.LinkedStack.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\05.LinkedStack\obj\Debug\05.LinkedStack.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\05.LinkedStack\obj\Debug\05.LinkedStack.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\05.LinkedStack\obj\Debug\05.LinkedStack.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\09.SequenceNtoM\bin\Debug\09.SequenceNtoM.exe.config
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\09.SequenceNtoM\bin\Debug\09.SequenceNtoM.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\09.SequenceNtoM\bin\Debug\09.SequenceNtoM.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\09.SequenceNtoM\obj\Debug\09.SequenceNtoM.csprojResolveAssemblyReference.cache
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\09.SequenceNtoM\obj\Debug\09.SequenceNtoM.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\09.SequenceNtoM\obj\Debug\09.SequenceNtoM.pdb

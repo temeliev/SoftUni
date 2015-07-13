@@ -1,0 +1,6 @@
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\07.LinkedQueue\bin\Debug\07.LinkedQueue.exe.config
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\07.LinkedQueue\bin\Debug\07.LinkedQueue.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\07.LinkedQueue\bin\Debug\07.LinkedQueue.pdb
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\07.LinkedQueue\obj\Debug\07.LinkedQueue.csprojResolveAssemblyReference.cache
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\07.LinkedQueue\obj\Debug\07.LinkedQueue.exe
+D:\Lessons\SoftUni\Open courses\Data Structures\LinearDataStructuresStacksAndQueues\07.LinkedQueue\obj\Debug\07.LinkedQueue.pdb
